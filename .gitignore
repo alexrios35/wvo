@@ -1,2 +1,5 @@
+node_modules/
+certificates/
 readme/
 .obsidian/
+https.js
