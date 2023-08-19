@@ -1,12 +1,12 @@
 {
   "name": "wvo",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple HTML node crawler",
   "main": "index.js",
   "scripts": {
     "test": "nodemon ./index.js"
   },
-  "keywords": [],
+  "keywords": ["alexrios35"],
   "author": "Alex-Rios",
   "license": "ISC",
   "devDependencies": {
